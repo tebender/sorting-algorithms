@@ -1,3 +1,5 @@
+package sorting.quick;
+
 import junit.framework.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
